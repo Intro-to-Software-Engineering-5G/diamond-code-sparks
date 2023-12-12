@@ -30,7 +30,10 @@ Student notifications
   
   ![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92805437/3c71a21d-3c99-47c0-ad4f-85cf27b7e3ab)
 ### Outstanding Work
-features x y and z need more work
+Discussion boards
+
+Implement the discussion page functionality. This includes the viewing the dicusssion and responding to it with a rich text editor.
+
 
 ## Application
 
