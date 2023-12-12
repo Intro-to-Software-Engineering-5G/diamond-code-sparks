@@ -18,11 +18,11 @@ pic of lesson queue
 
 #### Discussion boards
 pic of discussion boards
+#### Outstanding work on discussion boards
+Implement the discussion page functionality. This includes the viewing the dicusssion and responding to it with a rich text editor.
 
 ### Discussion reminders
 pic of discussion notifications
-#### Outstanding work on discussion boards
-Implement the discussion page functionality. This includes the viewing the dicusssion and responding to it with a rich text editor.
 
 #### Student notifications
   ![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92805437/3c71a21d-3c99-47c0-ad4f-85cf27b7e3ab)
