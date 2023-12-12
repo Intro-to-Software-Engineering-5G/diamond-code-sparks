@@ -9,6 +9,20 @@ Cloud-based programming interface
 
 <br/>
 
+## Implemented Features
+Student Syllabus View
+  pic of student syllabus view
+Lesson Queue
+  pic of lesson queue
+Discussion boards
+  pic of discussion boards
+Discussion reminders
+  pic of discussion notifications
+Student notifications
+  ![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92805437/3c71a21d-3c99-47c0-ad4f-85cf27b7e3ab)
+### Outstanding Work
+features x y and z need more work
+
 ## Application
 
 ### `client` 
