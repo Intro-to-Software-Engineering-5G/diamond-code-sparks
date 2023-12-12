@@ -10,9 +10,9 @@ Cloud-based programming interface
 <br/>
 
 ## Implemented Features
-Student Syllabus View
+#### Student Syllabus View
   
-  **pic of student syllabus view**
+  pic of student syllabus view
 
 Lesson Queue
   
