@@ -19,7 +19,8 @@ pic of lesson queue
 #### Discussion boards
 ![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92805437/6d72b629-b680-4bff-87b1-db73ead045e0)
 ![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92805437/cdbe893e-8848-4f6e-87e1-73c83e039fa3)
-![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92805437/86834ed4-f15c-4ae7-8ff5-80a15d4704db)
+![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92805437/bb21d79f-7010-4b15-b77b-4d5d8aab8d9b)
+
 
 #### Discussion reminders
 pic of discussion notifications
