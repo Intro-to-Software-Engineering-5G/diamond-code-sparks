@@ -30,6 +30,16 @@ pic of lesson queue
 #### Student notifications
   ![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92805437/3c71a21d-3c99-47c0-ad4f-85cf27b7e3ab)
 
+#### All Lessons View
+
+![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92884659/2924661a-a1a8-41d1-8b10-432bfa5902a4)
+
+#### Student Progress Bar
+
+![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92884659/c9fbb95e-b709-47c1-8766-5535c96f3e0e)
+
+
+
 ### Outstanding Work
 #### Discussion boards
 Implement the discussion page functionality. This includes the viewing the dicusssion and responding to it with a rich text editor.
