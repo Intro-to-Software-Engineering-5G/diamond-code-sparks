@@ -23,7 +23,10 @@ pic of lesson queue
 
 
 #### Discussion reminders
-pic of discussion notifications
+![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/140461034/c9c5df47-08e9-4a56-adad-e9ab1ee36c69)
+![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/140461034/00246688-0a17-4db9-9cb8-cc493f655c87)
+![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/140461034/25db9227-bafa-4930-bbb2-8e3e57257819)
+
 
 #### Student notifications
   ![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/92805437/3c71a21d-3c99-47c0-ad4f-85cf27b7e3ab)
@@ -31,7 +34,8 @@ pic of discussion notifications
 ### Outstanding Work
 #### Discussion boards
 Implement the discussion page functionality. This includes the viewing the dicusssion and responding to it with a rich text editor.
-
+#### Discussion Reminders
+Implement reminders in intervals.
 
 ## Application
 
