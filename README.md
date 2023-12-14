@@ -23,7 +23,6 @@ pic of lesson queue
 
 
 #### Discussion reminders
-![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/140461034/c9c5df47-08e9-4a56-adad-e9ab1ee36c69)
 ![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/140461034/00246688-0a17-4db9-9cb8-cc493f655c87)
 ![image](https://github.com/Intro-to-Software-Engineering-5G/diamond-code-sparks/assets/140461034/25db9227-bafa-4930-bbb2-8e3e57257819)
 
